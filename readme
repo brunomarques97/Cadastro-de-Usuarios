@@ -1,7 +1,7 @@
 #Projeto cadastro de usuarios
 
--[ ]Fazer o readme com planejamento inicial do projeto e os arquivos Html, css e js
--[ ]Fazer Titulo
--[ ]Fazer formulario de cadastro
+-[x]Fazer o readme com planejamento inicial do projeto e os arquivos Html, css e js
+-[x]Fazer Titulo e Fazer formulario de cadastro
+-[ ]Fazer estilo
 -[ ]Fazer conexao com banco de dados
 -[ ]Armazenar dados feitos no banco de dados local
